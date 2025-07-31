@@ -20,8 +20,8 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **AI Trip Planner** & **Animverse**
-- 🌱 I’m learning **Next.js**, **Redis**, and **System Design**
-- 💬 Ask me about **React, Tailwind, Node.js, MongoDB**
+- 🌱 I’m learning **React**, **Redis**, and **System Design**
+- 💬 Ask me about **React, Tailwind, Node.js**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/peerabduladnan)
 - ⚡ Fun fact: I build better when anime OSTs are playing 🎧
 

@@ -1,7 +1,7 @@
 [![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZiYzg1aG1ndDlmemw4d253eGkxcmR2Z3g5eGRraTBpdmZqMDc4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdul Adnan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img aligh='center' alt="coding" width="400" src="https://media.tenor.com/Zqff-yVxrZ0AAAAM/xiao-yan-dou-zun.gif"  >
+<img aligh="center" alt="coding" width="400" src="https://media.tenor.com/Zqff-yVxrZ0AAAAM/xiao-yan-dou-zun.gif"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduladnan7&label=Profile%20views&color=0e75b6&style=flat" alt="abduladnan7" /> </p>
 

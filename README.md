@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **AI Trip Planner** & **Animverse**
+- 🔭 I’m currently working on **AI Trip Planner** & **Aniverse**
 - 🌱 I’m learning **React**, **Redis**, and **System Design**
 - 💬 Ask me about **React, Tailwind, Node.js**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/peerabduladnan)
@@ -32,7 +32,7 @@
 | Project        | Description                                | Live Link |
 |----------------|--------------------------------------------|-----------|
 | **TechXom**    | E-commerce platform for gadgets            | [Visit](https://techxom.vercel.app/) |
-| **Animverse**  | Anime streaming & info platform            | [Visit](https://aniver-chi.vercel.app/) |
+| **Aniverse**  | Anime streaming & info platform            | [Visit](https://aniver-chi.vercel.app/) |
 | **AI Trip Planner** | Smart trip planner using OpenAI        | Coming Soon |
 
 ---

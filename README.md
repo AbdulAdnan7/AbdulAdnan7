@@ -50,8 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulAdnan7&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulAdnan7&theme=tokyonight" alt="GitHub Streak" height="200"/>
 </p>
-="450"/>
-</p>
 
 ---
 

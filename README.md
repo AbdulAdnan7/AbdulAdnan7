@@ -45,14 +45,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAdnan7&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://streak-stats.demolab.com?user=AbdulAdnan7&theme=tokyonight" width="450"/>
-</p>
-
----
 
 ### 🔗 Connect with Me
 

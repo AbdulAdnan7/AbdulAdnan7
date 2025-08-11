@@ -33,7 +33,7 @@
 |----------------|--------------------------------------------|-----------|
 | **TechXom**    | E-commerce platform for gadgets            | [Visit](https://techxom.vercel.app/) |
 | **Aniverse**  | Anime streaming & info platform            | [Visit](https://aniver-chi.vercel.app/) |
-| **AI Trip Planner** | Smart trip planner using OpenAI        | Coming Soon |
+| **AI Trip Planner** | Smart trip planner using OpenAI        | [Visit](https://tripmind-six.vercel.app/) |
 
 ---
 

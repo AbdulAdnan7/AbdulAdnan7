@@ -13,7 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulAdnan7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+ <img src="https://count.getloli.com/@AbdulAdnan7?theme=booru-sakura" alt="Profile Views" />
 </p>
 
 ---

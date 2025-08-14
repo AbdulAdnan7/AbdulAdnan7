@@ -19,12 +19,23 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **AI Trip Planner** & **Aniverse**
-- 🌱 I’m learning **React**, **NodeJS**, and **System Design**
-- 💬 Ask me about **React, Tailwind, Node.js**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/peerabduladnan)
-- ⚡ Fun fact: I build better when anime OSTs are playing 🎧
+## 💫 About Me  
+
+🔭 **Currently Working On:**  
+&nbsp;&nbsp;&nbsp;🚀 AI Trip Planner & 🎥 Aniverse  
+
+🌱 **Learning:**  
+&nbsp;&nbsp;&nbsp;▲ Next.js • 🖥️ Node.js  
+
+💬 **Ask Me About:**  
+&nbsp;&nbsp;&nbsp;⚡ React • 🎨 Tailwind CSS • 🌐 Node.js  
+
+📫 **Reach Me:**  
+&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/peerabduladnan)  
+
+⚡ **Fun Fact:**  
+&nbsp;&nbsp;&nbsp;🎧 I code better when anime OSTs are playing  
+
 
 ---
 

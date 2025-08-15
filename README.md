@@ -49,7 +49,6 @@
 
 ---
 
-
 ## 🛠 Tech Stack  
 
 ### 💻 Languages  
@@ -59,6 +58,7 @@
 
 ### 🎨 Frontend  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcn&logoColor=white)
 ![Skiper UI](https://img.shields.io/badge/Skiper_UI-3B82F6?style=for-the-badge&logoColor=white)

@@ -18,7 +18,6 @@ React · Node.js · Express · MongoDB · Tailwind CSS
 
 ![](https://komarev.com/ghpvc/?username=AbdulAdnan7&label=Profile+Views&style=for-the-badge)
 </div>
----
 
 ### 📫 Connect with me  
 - Email: peerabduladnan@gmail.com  

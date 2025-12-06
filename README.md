@@ -13,9 +13,9 @@ React · Node.js · Express · MongoDB · Tailwind CSS
 <!-- Profile GIF (centered) -->  
 <div align="center">  
   <img src="https://media1.tenor.com/m/UN3E5WSe-YcAAAAd/xiao-yan-battle-through-the-heavens.gif" width="300" />  
-</div>
----
-<div>
+
+
+
 ![](https://komarev.com/ghpvc/?username=AbdulAdnan7&label=Profile+Views&style=for-the-badge)
 </div>
 ---

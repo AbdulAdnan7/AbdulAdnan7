@@ -12,21 +12,11 @@ React · Node.js · Express · MongoDB · Tailwind CSS
 
 <!-- Profile GIF (centered) -->  
 <div align="center">  
-  <img src="https://share.google/BfDo2qaaBlhQaRkah" alt="My animated intro" width="300" />  
-</div>  
-
+  <img src="https://media1.tenor.com/m/UN3E5WSe-YcAAAAd/xiao-yan-battle-through-the-heavens.gif" width="300" />  
+</div>
 ---
 
-### 📊 My GitHub Stats  
-[![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulAdnan7&show_icons=true&theme=dark&hide_border=true)](https://github.com/AbdulAdnan7)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAdnan7&layout=compact&theme=dark&hide_border=true)](https://github.com/AbdulAdnan7)
-
----
-
-### 🛠️ More Badges (optional)  
-![GitHub followers](https://img.shields.io/github/followers/AbdulAdnan7?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/AbdulAdnan7?style=social)  
-
+![](https://komarev.com/ghpvc/?username=AbdulAdnan7&label=Profile+Views&style=for-the-badge)
 ---
 
 ### 📫 Connect with me  

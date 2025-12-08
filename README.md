@@ -21,4 +21,6 @@ React · Node.js · Express · MongoDB · Tailwind CSS
 
 ### 📫 Connect with me  
 - Email: peerabduladnan@gmail.com  
-- LinkedIn / Twitter / Portfolio: [link-here](https://peerabduladnans.vercel.app)
+- LinkedIn [link-here](https://www.linkedin.com/in/peerabduladnan)
+- Twitter  [link-here](https://www.x.com/peerabduladnan)
+- Portfolio: [link-here](https://peerabduladnans.vercel.app)

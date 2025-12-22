@@ -7,6 +7,10 @@
 <h3 align="center">Aspiring MERN Stack Developer</h3>
 <p align="center">Building projects while learning full-stack development step by step.</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulAdnan7&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 ---
 
 ## 📖 About Me
@@ -17,6 +21,15 @@ I'm a passionate developer focused on mastering the MERN stack through hands-on 
 - 🛠️ **Building:** Practical projects to reinforce concepts
 - 🎯 **Goal:** Develop the skills to build production-ready web applications
 - 💡 **Philosophy:** Consistency and clarity over speed
+
+---
+
+## 📊 GitHub Stats
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAdnan7&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 

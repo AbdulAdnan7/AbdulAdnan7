@@ -4,7 +4,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="500" alt="Coding Animation" />
 </p>
 
-<h3 align="center">Aspiring MERN Stack Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 <p align="center">Building projects while learning full-stack development step by step.</p>
 
 <p align="center">

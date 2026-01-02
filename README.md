@@ -22,14 +22,7 @@ I'm a passionate developer focused on mastering the MERN stack through hands-on 
 - 🎯 **Goal:** Develop the skills to build production-ready web applications
 - 💡 **Philosophy:** Consistency and clarity over speed
 
----
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAdnan7&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 

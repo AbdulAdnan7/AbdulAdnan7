@@ -8,8 +8,12 @@
 <p align="center">Building projects while learning full-stack development step by step.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulAdnan7&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://count.getloli.com/@AbdulAdnan7?theme=cyberpunk" alt="GitHub Profile Card" />
 </p>
+
+
+
+
 
 ---
 

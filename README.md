@@ -19,13 +19,13 @@
 
 ## 📖 About Me
 
-I'm a passionate developer focused on mastering the MERN stack through hands-on projects and consistent learning. My approach is to build a strong foundation in web development fundamentals while progressively tackling more complex challenges.
+I’m a web developer focused on mastering the MERN stack by building real-world projects.  
+Alongside, I’m learning Python to expand my backend and automation skills.
 
-- 🌱 **Currently learning:** Full-stack web development from the ground up
-- 🛠️ **Building:** Practical projects to reinforce concepts
-- 🎯 **Goal:** Develop the skills to build production-ready web applications
-- 💡 **Philosophy:** Consistency and clarity over speed
-
+- 🌱 Currently strengthening MERN skills and learning Python
+- 🛠️ Building full-stack projects to apply concepts in practice
+- 🎯 Goal: Write clean, maintainable, production-ready web applications
+- 💡 Approach: Learn by doing, prioritize clarity and consistency
 
 
 ---
@@ -50,13 +50,12 @@ I'm a passionate developer focused on mastering the MERN stack through hands-on 
 
 ---
 
-## 📈 Current Focus
+## 🎮 Mini Game
 
-- 📘 **Learning TypeScript for type-safe development**
-- ⚛️ **Building React applications**
-- 🛠️ **Creating projects to sharpen practical skills**
-- 🔗 **Connecting frontend with backend APIs**
-- 📚 **Learning database design and integration**
+<p align="center">
+  ❤️ HP: 75 &nbsp;&nbsp; ⭐ XP: 210 &nbsp;&nbsp; 🛡️ Level: 5 &nbsp;&nbsp; 💰 Gold: 300
+</p>
+
 
 ---
 
@@ -64,18 +63,20 @@ I'm a passionate developer focused on mastering the MERN stack through hands-on 
 
 <div align="center">
   <a href="https://peerabduladnans.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/peerabduladnan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
   <a href="https://x.com/peerabduladnan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
   </a>
   <a href="mailto:peerabduladnan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
   </a>
 </div>
+
+
 
 ---
 

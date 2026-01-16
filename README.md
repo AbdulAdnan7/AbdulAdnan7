@@ -32,26 +32,21 @@ I'm a passionate developer focused on mastering the MERN stack through hands-on 
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+### 🧰 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express" />
 </p>
 
-### Styling & Databases
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+### 🎨 Styling & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,mongodb" />
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+### 🧪 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vercel,vscode" />
 </p>
+
 
 ---
 

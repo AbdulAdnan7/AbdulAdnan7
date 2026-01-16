@@ -49,9 +49,6 @@ Alongside, I’m learning Python to expand my backend and automation skills.
   ❤️ HP: 75 &nbsp;&nbsp; ⭐ XP: 210 &nbsp;&nbsp; 🛡️ Level: 5 &nbsp;&nbsp; 💰 Gold: 300
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbdulAdnan7/AbdulAdnan7/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions Graph" />
-</p>
 
 
 ---

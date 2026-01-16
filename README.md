@@ -1,12 +1,17 @@
 # Hi, I'm Adnan 👋
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/13b0271654f2314bfb239ab99c599408cace90ab65cedeb61a3f162535f3a6ff/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f39312f36312f65373931363131373138323135613063666330616239366537316431646333662e676966" width="600" alt="Coding Banner" />
+</p>
+
 ### Full-Stack MERN Developer
 
-I build clean, maintainable web applications while mastering the MERN stack and learning Python for backend and automation.
+Building clean, maintainable web applications while mastering the MERN stack and learning Python.
 
 <p align="center">
   <img src="https://count.getloli.com/@AbdulAdnan7?theme=cyberpunk" alt="GitHub Profile Views" />
 </p>
+
 
 ---
 

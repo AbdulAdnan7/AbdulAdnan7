@@ -55,8 +55,11 @@ Alongside, I’m learning Python to expand my backend and automation skills.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbdulAdnan7/AbdulAdnan7/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions Graph" width="600" />
+  <img src="https://64.media.tumblr.com/aa0fe75f85196e13f6d1c38cef5a7327/f914c5e500348be4-da/s500x750/094ed884e1587f2d5a5b42f70f8a8be44836e221.gif" alt="Gaming Preview" width="600" />
 </p>
+
+
+<p align="center"> <img src="https://raw.githubusercontent.com/AbdulAdnan7/AbdulAdnan7/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions Graph" width="600" /> </p>
 
 
 

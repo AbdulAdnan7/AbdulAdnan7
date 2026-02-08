@@ -18,9 +18,9 @@ Building clean, maintainable web applications while mastering the MERN stack and
 ## 📖 About Me
 
 I’m a web developer focused on mastering the MERN stack by building real-world projects.  
-Alongside, I’m learning Python to expand my backend and automation skills.
+Alongside, I’m learning Next.js to expand my  skills.
 
-- 🌱 Currently strengthening MERN skills and learning Python
+- 🌱 Currently strengthening MERN skills and learning Next.js
 - 🛠️ Building full-stack projects to apply concepts in practice
 - 🎯 Goal: Write clean, maintainable, production-ready web applications
 - 💡 Approach: Learn by doing, prioritize clarity and consistency
@@ -32,7 +32,7 @@ Alongside, I’m learning Python to expand my backend and automation skills.
 
 ### 🧰 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=next,js,react,nodejs,express" />
 </p>
 
 ### 🎨 Styling & Databases

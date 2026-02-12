@@ -6,7 +6,7 @@
 
 ### Full-Stack MERN Developer
 
-Building clean, maintainable web applications while mastering the MERN stack and learning Python.
+Building clean, maintainable web applications while mastering the MERN stack and learning Next.js
 
 <p align="center">
   <img src="https://count.getloli.com/@AbdulAdnan7?theme=cyberpunk" alt="GitHub Profile Views" />

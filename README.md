@@ -1,7 +1,7 @@
 # Hi, I'm Adnan 👋
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/32872452/file/original-79f554de8b796d0651ee5d15f7cd3448.gif" width="600" alt="Coding Banner" />
+  <img src="https://i0.wp.com/halcyonrealms.com/blogpics/japgifF.gif?resize=500%2C374&ssl=1" width="600" alt="Coding Banner" />
 </p>
 
 <p align="center">

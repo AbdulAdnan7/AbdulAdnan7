@@ -4,89 +4,133 @@
   <img src="https://cdn.dribbble.com/userupload/32872452/file/original-79f554de8b796d0651ee5d15f7cd3448.gif" width="600" alt="Coding Banner" />
 </p>
 
-### Full-Stack MERN Developer
-
-Building clean, maintainable web applications while mastering the MERN stack and learning Next.js
-
 <p align="center">
-  <img src="https://count.getloli.com/@AbdulAdnan7?theme=cyberpunk" alt="GitHub Profile Views" />
+  <b>Full-Stack Developer • MERN Stack • Exploring Next.js</b>
 </p>
 
+<p align="center">
+  Building clean, scalable web applications while constantly learning through real-world projects.
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/@AbdulAdnan7?theme=cyberpunk" alt="Profile Views" />
+</p>
 
 ---
 
-## 📖 About Me
+# 📖 About Me
 
-I’m a web developer focused on mastering the MERN stack by building real-world projects.  
-Alongside, I’m learning Next.js to expand my  skills.
+I’m a developer focused on building **practical full-stack applications** while mastering modern web technologies.
 
-- 🌱 Currently strengthening MERN skills and learning Next.js
-- 🛠️ Building full-stack projects to apply concepts in practice
-- 🎯 Goal: Write clean, maintainable, production-ready web applications
-- 💡 Approach: Learn by doing, prioritize clarity and consistency
-
+- 🌱 Currently learning **Next.js, TypeScript, and PostgreSQL**
+- 🛠️ Building projects using the **MERN stack**
+- 🎯 Goal: Write **scalable and production-ready applications**
+- 💡 Philosophy: *The best way to learn is by building real things*
 
 ---
 
-## 🛠️ Tech Stack
+# 🧰 Tech Stack
 
-### 🧰 Languages & Frameworks
+### Languages & Frameworks
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=next,js,react,nodejs,express" />
-</p>
 
-### 🎨 Styling & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,mongodb" />
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" /></a>
 
-### 🧪 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vercel,vscode" />
-</p>
+<a href="https://react.dev">
+<img src="https://skillicons.dev/icons?i=react" /></a>
 
+<a href="https://nodejs.org">
+<img src="https://nodejs.org/static/images/logo.svg" width="48"/></a>
+
+<a href="https://expressjs.com">
+<img src="https://skillicons.dev/icons?i=express" /></a>
+
+<a href="https://nextjs.org">
+<img src="https://skillicons.dev/icons?i=nextjs" /></a>
+
+</p>
 
 ---
 
-## 🎮 Mini Game
+### Styling & Databases
 
-<p align="center">
-  ❤️ HP: 75 &nbsp;&nbsp; ⭐ XP: 210 &nbsp;&nbsp; 🛡️ Level: 5 &nbsp;&nbsp; 💰 Gold: 300
+<p>
+
+<a href="https://tailwindcss.com">
+<img src="https://skillicons.dev/icons?i=tailwind" /></a>
+
+<a href="https://www.mongodb.com">
+<img src="https://skillicons.dev/icons?i=mongodb" /></a>
+
+<a href="https://www.postgresql.org">
+<img src="https://skillicons.dev/icons?i=postgres" /></a>
+
 </p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/aa0fe75f85196e13f6d1c38cef5a7327/f914c5e500348be4-da/s500x750/094ed884e1587f2d5a5b42f70f8a8be44836e221.gif" alt="Gaming Preview" width="600" />
-</p>
-
-
-<p align="center"> <img src="https://raw.githubusercontent.com/AbdulAdnan7/AbdulAdnan7/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions Graph" width="600" /> </p>
-
-
-
 
 ---
 
-## 🌐 Connect With Me
+### Tools
 
-<div align="center">
-  <a href="https://peerabduladnans.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/peerabduladnan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/peerabduladnan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
-  </a>
-  <a href="mailto:peerabduladnan@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
-  </a>
-</div>
+<p>
 
+<a href="https://git-scm.com">
+<img src="https://skillicons.dev/icons?i=git" /></a>
 
+<a href="https://github.com">
+<img src="https://skillicons.dev/icons?i=github" /></a>
+
+<a href="https://vercel.com">
+<img src="https://skillicons.dev/icons?i=vercel" /></a>
+
+<a href="https://code.visualstudio.com">
+<img src="https://skillicons.dev/icons?i=vscode" /></a>
+
+</p>
+
+---
+
+# 🚀 Projects
+
+| Project | Description | Tech |
+|------|-------------|------|
+| **Aniverse** | An anime tracking platform inspired by MyAnimeList where users can explore anime, keep track of watched shows, and manage their personal watchlists. | React |
+| **Notes App** | A secure note-taking application with full CRUD functionality and user authentication, allowing users to create, edit, and manage personal notes. | MERN Stack |
+| **DocuCare** | An admin-based service management platform where administrators manage and organize online services through role-based access and dashboards. | MERN Stack |
+| **Lusios** | A split-expense manager that helps users track shared expenses and calculate balances between friends or groups. | React, Node.js, postgreSQL |
+| **VisTree** | A visual hierarchy builder that allows developers to create and view project structures as interactive tree diagrams for better project organization. | Next.Js |
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AbdulAdnan7/AbdulAdnan7/main/profile-3d-contrib/profile-night-green.svg" width="600"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://peerabduladnans.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
+
+<a href="https://www.linkedin.com/in/peerabduladnan">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+
+<a href="https://x.com/peerabduladnan">
+<img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+
+<a href="mailto:peerabduladnan@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+
+</p>
 
 ---
 
 <p align="center">
-  <i>Open to collaboration and learning opportunities!</i>
+<i>Always learning. Always building.</i>
 </p>

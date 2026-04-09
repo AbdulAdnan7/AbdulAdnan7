@@ -22,7 +22,7 @@
 
 I’m a developer focused on building **practical full-stack applications** while mastering modern web technologies.
 
-- 🌱 Currently learning **Next.js, TypeScript, and PostgreSQL**
+- 🌱 Currently taking **BREAK**
 - 🛠️ Building projects using the **MERN stack**
 - 🎯 Goal: Write **scalable and production-ready applications**
 - 💡 Philosophy: *The best way to learn is by building real things*

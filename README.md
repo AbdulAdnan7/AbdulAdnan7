@@ -1,4 +1,4 @@
-# Hi, I'm Adnan 👋
+# Hi, I'm Abdul Adnan 👋
 
 <p align="center">
   <img src="https://i0.wp.com/halcyonrealms.com/blogpics/japgifF.gif?resize=500%2C374&ssl=1" width="600" alt="Coding Banner" />

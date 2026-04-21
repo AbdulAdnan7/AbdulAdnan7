@@ -22,7 +22,7 @@
 
 I’m a developer focused on building **practical full-stack applications** while mastering modern web technologies.
 
-- 🌱 Currently taking **BREAK**
+- 🌱 Currently working on **FINAL YEAR PROJECT**
 - 🛠️ Building projects using the **MERN stack**
 - 🎯 Goal: Write **scalable and production-ready applications**
 - 💡 Philosophy: *The best way to learn is by building real things*

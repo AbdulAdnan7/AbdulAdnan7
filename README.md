@@ -99,7 +99,7 @@ I’m a developer focused on building **practical full-stack applications** whil
 | **Notes App** | A secure note-taking application with full CRUD functionality and user authentication, allowing users to create, edit, and manage personal notes. | MERN Stack |
 | **DocuCare** | An admin-based service management platform where administrators manage and organize online services through role-based access and dashboards. | MERN Stack |
 | **Lusios** | A split-expense manager that helps users track shared expenses and calculate balances between friends or groups. | React, Node.js, postgreSQL |
-| **VisTree** | A visual hierarchy builder that allows developers to create and view project structures as interactive tree diagrams for better project organization. | Next.Js |
+| **VisTree** | A visual hierarchy builder that allows developers to create and view project structures as interactive tree diagrams for better project organization using gemini API. | Next.Js |
 
 ---
 

@@ -22,7 +22,7 @@
 
 I’m a developer focused on building **practical full-stack applications** while mastering modern web technologies.
 
-- 🌱 Currently focusing on **FINAL YEAR EXAMS**
+- 🌱 Currently focusing on **FINAL YEAR EXAMS && ICET-2026**
 - 🛠️ Building projects using the **MERN stack**
 - 🎯 Goal: Write **scalable and production-ready applications**
 - 💡 Philosophy: *The best way to learn is by building real things*

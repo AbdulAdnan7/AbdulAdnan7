@@ -1,15 +1,7 @@
-# Hi, I'm Abdul Adnan 👋
+# Abdul Adnan
 
 <p align="center">
-  <img src="https://i0.wp.com/halcyonrealms.com/blogpics/japgifF.gif?resize=500%2C374&ssl=1" width="600" alt="Coding Banner" />
-</p>
-
-<p align="center">
-  <b>Full-Stack Developer • MERN Stack • Exploring Next.js</b>
-</p>
-
-<p align="center">
-  Building clean, scalable web applications while constantly learning through real-world projects.
+  Full-stack developer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; exploring Next.js
 </p>
 
 <p align="center">
@@ -18,88 +10,49 @@
 
 ---
 
-# 📖 About Me
+## About
 
-I’m a developer focused on building **practical full-stack applications** while mastering modern web technologies.
-
-- 🌱 Currently focusing on **FINAL YEAR EXAMS && INTERNSHIP CHAOS**
-- 🛠️ Building projects using the **MERN stack**
-- 🎯 Goal: Write **scalable and production-ready applications**
-- 💡 Philosophy: *The best way to learn is by building real things*
+- Building practical MERN stack apps
+- Currently surviving final year exams + internship chaos
+- Goal: scalable, production-ready code
+- Philosophy: the best way to learn is to build
 
 ---
 
-# 🧰 Tech Stack
+## Stack
 
-### Languages & Frameworks
+**Languages & Frameworks**
 
-<p align="left">
+![JS](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" /></a>
+**Styling & Databases**
 
-<a href="https://react.dev">
-<img src="https://skillicons.dev/icons?i=react" /></a>
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-<a href="https://nodejs.org">
-<img src="https://nodejs.org/static/images/logo.svg" width="48"/></a>
+**Tools**
 
-<a href="https://expressjs.com">
-<img src="https://skillicons.dev/icons?i=express" /></a>
-
-<a href="https://nextjs.org">
-<img src="https://skillicons.dev/icons?i=nextjs" /></a>
-
-</p>
-
----
-
-### Styling & Databases
-
-<p>
-
-<a href="https://tailwindcss.com">
-<img src="https://skillicons.dev/icons?i=tailwind" /></a>
-
-<a href="https://www.mongodb.com">
-<img src="https://skillicons.dev/icons?i=mongodb" /></a>
-
-<a href="https://www.postgresql.org">
-<img src="https://skillicons.dev/icons?i=postgres" /></a>
-
-</p>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-### Tools
+## Projects
 
-<p>
-
-<a href="https://git-scm.com">
-<img src="https://skillicons.dev/icons?i=git" /></a>
-
-<a href="https://github.com">
-<img src="https://skillicons.dev/icons?i=github" /></a>
-
-<a href="https://vercel.com">
-<img src="https://skillicons.dev/icons?i=vercel" /></a>
-
-<a href="https://code.visualstudio.com">
-<img src="https://skillicons.dev/icons?i=vscode" /></a>
-
-</p>
-
----
-
-# 🚀 Projects
-
-| Project | Description | Tech |
-|------|-------------|------|
-| **Aniverse** | An anime tracking platform inspired by MyAnimeList where users can explore anime, keep track of watched shows, and manage their personal watchlists. | React |
-| **Notes App** | A secure note-taking application with full CRUD functionality and user authentication, allowing users to create, edit, and manage personal notes. | MERN Stack |
-| **DocuCare** | An admin-based service management platform where administrators manage and organize online services through role-based access and dashboards. | MERN Stack |
-| **Lusios** | A split-expense manager that helps users track shared expenses and calculate balances between friends or groups. | React, Node.js, postgreSQL |
-| **VisTree** | A visual hierarchy builder that allows developers to create and view project structures as interactive tree diagrams for better project organization using gemini API. | Next.Js |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Aniverse** | Anime tracking platform — explore, track, and manage your watchlist. | React |
+| **Notes App** | Secure note-taking with full CRUD and user auth. | MERN |
+| **DocuCare** | Admin-based service platform with role-based access and dashboards. | MERN |
+| **Lusios** | Split-expense manager to track shared costs between groups. | React · Node.js · PostgreSQL |
+| **VisTree** | Visual hierarchy builder with interactive tree diagrams, powered by Gemini. | Next.js |
 
 ---
 
@@ -111,26 +64,13 @@ I’m a developer focused on building **practical full-stack applications** whil
 
 ---
 
-# 🌐 Connect With Me
+## Connect
 
-<p align="center">
-
-<a href="https://peerabduladnans.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
-
-<a href="https://www.linkedin.com/in/peerabduladnan">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-
-<a href="https://x.com/peerabduladnan">
-<img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
-
-<a href="mailto:peerabduladnan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-
-</p>
+[![Portfolio](https://skillicons.dev/icons?i=vercel)](https://peerabduladnans.vercel.app)&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/peerabduladnan)&nbsp;
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/peerabduladnan)&nbsp;
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:peerabduladnan@gmail.com)
 
 ---
 
-<p align="center">
-<i>Always learning. Always building.</i>
-</p>
+<p align="center"><i>always learning · always building</i></p>

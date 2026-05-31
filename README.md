@@ -2,24 +2,24 @@
 
 **Languages & Frameworks**
 
-![JS](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
+[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
 
 **Styling & Databases**
 
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
 
 **Tools**
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
 ---
 

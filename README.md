@@ -1,4 +1,5 @@
  # Abdul Adnan
+ <img src="https://komarev.com/ghpvc/?username=AbdulAdnan7&label=Profile%20Views&color=blue&style=flat" /> <img src="https://img.shields.io/badge/MERN%20Stack%20Developer-47A248?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-Developer-black?style=flat&logo=nextdotjs&logoColor=white" />
 
 **Languages & Frameworks**
 

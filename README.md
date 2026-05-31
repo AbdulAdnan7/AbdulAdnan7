@@ -1,7 +1,4 @@
-# Abdul Adnan
-
-
-## Stack
+ # Abdul Adnan
 
 **Languages & Frameworks**
 

@@ -72,17 +72,13 @@ I'm **Abdul Adnan**, a full-stack developer interested in building practical sof
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAdnan7&layout=compact&hide_border=true&bg_color=09090b&title_color=60a5fa&text_color=e4e4e7" height="160" />
 
 <img src="https://streak-stats.demolab.com?user=AbdulAdnan7&theme=transparent&hide_border=true&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa" height="160" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAdnan7&bg_color=09090b&color=e4e4e7&line=3b82f6&point=60a5fa&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
+
+
 
 ---
 

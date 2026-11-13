@@ -10,20 +10,24 @@
 
 ### Full-Stack Developer · Building for the Web
 
-<p>
-  <a href="https://peerabduladnans.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/peerabduladnan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/peerabduladnan"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:peerabduladnan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <a href="https://peerabduladnans.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/peerabduladnan">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/peerabduladnan">X</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:peerabduladnan@gmail.com">Email</a>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+things+for+the+web.;Understanding+systems+under+the+hood.;Turning+ideas+into+working+software." alt="Typing introduction" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AbdulAdnan7&style=flat-square&color=2563eb&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/AbdulAdnan7?style=flat-square&color=2563eb&label=FOLLOWERS" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulAdnan7&style=plastic&labelColor=000000&color=000000&label=PROFILE%20VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AbdulAdnan7?style=plastic&label=FOLLOWERS&labelColor=000000&color=000000&logo=github&logoColor=white" alt="GitHub followers" />
+</p>
 </div>
 
 ---

@@ -102,6 +102,5 @@ I care about more than just making things work. I want to understand the decisio
 
 *Good software starts with understanding the problem.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:172554,100:2563eb&height=100&section=footer" width="100%" />
 
 </div>

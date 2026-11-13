@@ -1,20 +1,28 @@
-<!--
-  ABDUL ADNAN | GITHUB PROFILE README
-  Theme: Minimal dark developer aesthetic
--->
+ <!-- ABDUL ADNAN | GITHUB PROFILE -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:172554,100:2563eb&height=200&section=header&text=Abdul%20Adnan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%" />
-
-<a href="https://github.com/AbdulAdnan7">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+things+for+the+web.;Understanding+systems+under+the+hood.;Turning+ideas+into+working+software." alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/AbdulAdnan7/AbdulAdnan7/main/xiaoyan.gif" width="100%" alt="Xiao Yan animated banner" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AbdulAdnan7&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/AbdulAdnan7?style=for-the-badge&color=2563eb&label=FOLLOWERS" />
+# ABDUL ADNAN
+
+### Full-Stack Developer · Building for the Web
+
+<p>
+  <a href="https://peerabduladnans.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/peerabduladnan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/peerabduladnan"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:peerabduladnan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+things+for+the+web.;Understanding+systems+under+the+hood.;Turning+ideas+into+working+software." alt="Typing introduction" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AbdulAdnan7&style=flat-square&color=2563eb&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/AbdulAdnan7?style=flat-square&color=2563eb&label=FOLLOWERS" />
 
 </div>
 
@@ -22,87 +30,74 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="middle">
 
 ## `$ whoami`
 
-I'm **Abdul Adnan**, a full-stack developer interested in building practical software and understanding how things work behind the scenes.
+Hey, I'm **Abdul Adnan** — a developer who enjoys figuring out how things work and turning ideas into real products.
 
-- Building web applications
-- Exploring backend architecture
-- Improving problem-solving skills
-- Learning through real-world engineering
+Currently working across the **React and Node.js ecosystem**, building web applications and getting deeper into backend engineering.
+
+I care about more than just making things work. I want to understand the decisions, systems, and logic behind the code I write.
+
+<br/>
+
+`BUILD` &nbsp; `BREAK` &nbsp; `UNDERSTAND` &nbsp; `IMPROVE`
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/AbdulAdnan7/AbdulAdnan7/main/Hun_Tiandi.webp"
-    width="220"
-    alt="Hun Tiandi"
-  />
-</div>
+<img src="https://raw.githubusercontent.com/AbdulAdnan7/AbdulAdnan7/main/Hun_Tiandi.webp" width="230" alt="Hun Tiandi" />
 
 </td>
 </tr>
 </table>
 
-## ⚡ Technologies & Tools
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Frontend
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css&theme=dark" />
 
-### Backend & Database
+<br/><br/>
+
+**Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
 
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-
-<img src="https://streak-stats.demolab.com?user=AbdulAdnan7&theme=transparent&hide_border=true&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa" height="160" />
-
-
-</div>
-
-
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://peerabduladnans.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-09090b?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/peerabduladnan">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/peerabduladnan">
-<img src="https://img.shields.io/badge/FOLLOW%20ON%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="mailto:peerabduladnan@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 <br/><br/>
 
-<i>Understand deeply. Build thoughtfully. Improve continuously.</i>
+**Tools & Platforms**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:172554,100:09090b&height=100&section=footer" width="100%" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,linux&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AbdulAdnan7&theme=transparent&hide_border=true&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa" />
+
+</div>
+
+
+---
+
+<div align="center">
+
+### `const mindset = "Always learning. Always building.";`
+
+<br/>
+
+*Good software starts with understanding the problem.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:172554,100:2563eb&height=100&section=footer" width="100%" />
 
 </div>

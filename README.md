@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbdulAdnan7/AbdulAdnan7/main/xiaoyan.gif" width="100%" alt="Xiao Yan animated banner" />
-
 <br/>
 
 # ABDUL ADNAN

@@ -25,7 +25,6 @@
   <a href="mailto:peerabduladnan@gmail.com">Email</a>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+things+for+the+web.;Understanding+systems+under+the+hood.;Turning+ideas+into+working+software." alt="Typing introduction" />
 
 <br/>
 
